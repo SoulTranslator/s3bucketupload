@@ -1,0 +1,14 @@
+{
+  "name": "awsfiles",
+  "version": "1.0.0",
+  "description": "for managing files in s3 bucket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun K P",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
